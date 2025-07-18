@@ -8,6 +8,7 @@ scikit-learn
 pyspark
 xgboost
 lightgbm
+optuna
 tqdm
 imbalanced-learn
 wordcloud
