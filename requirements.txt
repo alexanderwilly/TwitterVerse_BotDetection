@@ -12,3 +12,6 @@ optuna
 tqdm
 imbalanced-learn
 wordcloud
+nltk
+torch
+transformers
